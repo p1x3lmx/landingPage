@@ -3,7 +3,7 @@ body,html {
   }
 
 body {
-    background-image: url("/images/analogue-data-disc-117729.jpg");
+    background-image: url("images/analogue-data-disc-117729.jpg");
     background-size: cover;
     background-position: center;
     font-family: 'Montserrat', sans-serif;
