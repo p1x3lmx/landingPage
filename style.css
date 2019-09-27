@@ -16,6 +16,7 @@ body {
 }
 
 .navbar a{
+  border-radius: 10px;
   color: #fff;
   transition: all 0.5s;
   background-color: rgba(0,0,0,0.1)
